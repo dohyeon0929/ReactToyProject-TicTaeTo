@@ -36,7 +36,7 @@ export default function Game(){
       </div>
       <div className='game-info'>
         <ol>{moves}</ol>
-        <p>송지야 일해</p>
+        <p>송지야 힘내</p>
       </div>
     </div>
     // <p>You are at move {currentMove}</p>
